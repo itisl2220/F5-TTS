@@ -731,6 +731,10 @@ with gr.Blocks() as app:
         """
 # E2/F5 TTS
 
+一对一线上课，技术扶持!数字人多种解决方案，请联系罗老师
+
+抖音：https://v.douyin.com/CeiTokX2/  微信：luogen-ai
+
 This is a local web UI for F5 TTS with advanced batch processing support. This app supports the following TTS models:
 
 * [F5-TTS](https://arxiv.org/abs/2410.06885) (A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching)

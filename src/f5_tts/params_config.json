@@ -1,0 +1,25 @@
+{
+    "character_aliases": {
+        "hutao": "胡桃",
+        "hu_tao": "胡桃"
+    },
+    "emotion_aliases": {
+        "happy": "开心",
+        "sad": "悲伤",
+        "angry": "生气",
+        "default": "默认"
+    },
+    "supported_languages": [
+        "中文",
+        "英文", 
+        "日文",
+        "中英混合",
+        "日英混合",
+        "多语种混合"
+    ],
+    "supported_formats": [
+        "wav",
+        "mp3",
+        "ogg"
+    ]
+} 
